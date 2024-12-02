@@ -21,7 +21,7 @@ repository               : "https://github.com/xyfflow/xyfflow.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/home/yifu/Downloads/93654373.jpeg"
+  avatar           : "./images/93654373.jpeg"
   name             : "Xu,Yifu"
   pronouns         : "he/him"   
   bio              : "better than before"
