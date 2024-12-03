@@ -51,7 +51,7 @@ I’m a prospective post-graduate under the supervision of  [Ye Lu](https://cc.n
 
 - Read mature source code—>trade-off: focusing on non-trivial
 
-- 九阴真金: 基础 思维 熟练度
+- 九阴真经: 基础 思维 熟练度
 
 - 框架→细节，完成→完善，量变→质变，定时反馈闭环
 
