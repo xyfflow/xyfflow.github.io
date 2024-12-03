@@ -73,7 +73,7 @@ I’m a prospective post-graduate under the supervision of  [Ye Lu](https://cc.n
 	- credit/contribute issue roadmap documentation
 
 - intern (大厂,核心业务, 垂直经历)
-	- [ArchShineZ](https://shinezyy.github.io/ArchShineZ)
+	- [BOSC](https://shinezyy.github.io/ArchShineZ/post/recruit-dsa/)
 
 
 
