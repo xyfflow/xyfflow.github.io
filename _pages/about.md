@@ -7,7 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-# 
+
+
+# Intro
 
 I’m a prospective post-graduate under the supervision of  [Ye Lu](https://cc.nankai.edu.cn/2021/0323/c13620a549975/page.htm) in [NKU](https://cc.nankai.edu.cn/). Now I’m looking for motivations of the following domains: 
 
