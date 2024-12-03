@@ -7,4 +7,4 @@ redirect_from:
   - /about.html
 ---
 
-I’m a Prospective post-graduate from College of Computer Science,NKU. My research interest focuses on model compression，computer system design.
+I’m a prospective post-graduate in [@NKU](https://cc.nankai.edu.cn/). My research interest focuses on model compression，computer system design.
