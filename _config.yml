@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Yifu Xu"
+title                    : "Yifu Xu's Homepage"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -65,14 +65,14 @@ author:
   soundcloud       : # Username
   steam            : # Username
   telegram         : # URL
-  tumblr           : Utopia_Realism 
-  twitter          : # Username for X / Twitter
+  tumblr           : # 
+  twitter          : "Utopia_Realism" 
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
   xing             : # Username
   youtube          : # Username
-  zhihu            : xu-yi-fu-70 
+  zhihu            : "xu-yi-fu-70" 
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
