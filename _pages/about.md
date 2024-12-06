@@ -9,20 +9,11 @@ redirect_from:
 
 # About me
 
-I’m a prospective post-graduate under the supervision of [Ye Lu](https://cc.nankai.edu.cn/2021/0323/c13620a549975/page.htm) in [NKU](https://cc.nankai.edu.cn/). Now I’m exploring the potentials in the following domains:
+I’m a prospective post-graduate under the supervision of [Ye Lu](https://cc.nankai.edu.cn/2021/0323/c13620a549975/page.htm) in [NKU](https://cc.nankai.edu.cn/).
 
-- AI Training Framework
 
-- Inference Engine 
 
-	- kernel library 
-	- model compression	
 
-- AI Compiler
-
-- XPU (Micro-)Architecture
-
-	
 
 # Planning
 
@@ -50,6 +41,8 @@ I’m a prospective post-graduate under the supervision of [Ye Lu](https://cc.na
 
 - intern (大厂,核心业务, 垂直经历)
 	- [BOSC](https://shinezyy.github.io/ArchShineZ/post/recruit-dsa/)
+
+
 
 
 
