@@ -9,7 +9,7 @@ redirect_from:
 
 # About me
 
-continue building my homepage!
+Now I’m a prospective postcontinue building my homepage!
 
 
 
