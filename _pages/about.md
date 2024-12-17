@@ -16,6 +16,6 @@ continue building my homepage!
 # Research topic
 
 - Efficient LLM inference –> co-design 
-  - Efficient ML/Algorithms
-  - ML System
-  - XPU (Micro)-Architecture design 
+  - Efficient ML/AI Algorithms
+  - Efficient ML System
+  - Domain Specific Architecture(DSA) 
