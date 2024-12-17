@@ -13,14 +13,5 @@ continue building my homepage!
 
 
 
-# Research topic(To do)
-
-- model compression 
-- training & inference framework
-- kernel library
-- AI compiler
-
-- XPU (Micro-)Arch design
-
 
 
