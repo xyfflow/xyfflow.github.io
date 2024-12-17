@@ -15,8 +15,7 @@ continue building my homepage!
 
 # Research topic
 
-- MLSys –> Efficient LLM inference
-
-	- Efficient Algorithms and Systems 
-
-	- XPU (Micro)-Architecture 
+- Efficient LLM inference –> co-design 
+  - Efficient ML Algorithms
+  - Efficient ML System
+  - Efficient XPU (Micro)-Architecture 
