@@ -15,7 +15,11 @@ continue building my homepage!
 
 # Research topic
 
-- Efficient LLM inference –> co-design 
-  - Efficient ML/AI Algorithms
-  - Efficient ML System
-  - Domain Specific Architecture(DSA) 、GPU
+My research interests focus on Efficient  LLM  inference, i.e.: 
+- Efficient ML/AI Algorithms
+
+- SW-HW co-design: Flexible Algorithm and Architecture co-design
+
+- (To do)Efficient AI System: framework、kernel library、compiler
+
+	
