@@ -21,7 +21,7 @@ My research interests focus on ==Efficient  LLM  inference==, i.e.:
 
 - SW-HW co-design:
 
-	- Efficient Algoritm and System(framework、kernel library、compiler) co-design
+	- Efficient Algoritm and System(e.g.:framework、kernel library、compiler) co-design
 
 	-  Flexible Algorithm and Hardware Architecture(e.g.:GPU 、 DSA) co-design
 
